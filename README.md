@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hello, I'm Korra!
+---
+I build machine learning based projects to showcase the power of Open Source 📚 and enough time ⏰
+
 
 <!--
 **korra-pickell/korra-pickell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
