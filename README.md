@@ -1,5 +1,4 @@
 ## Hello, I'm Korra!
----
 I build machine learning based projects to showcase the power of Open Source 📚 and enough time ⏰
 
 
