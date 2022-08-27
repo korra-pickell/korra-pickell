@@ -1,7 +1,9 @@
 ## 💾 Hello, I'm Korra! 
 I build machine learning based projects to showcase the power of Open Source 📚 and enough time ⏰
 
-
+- 🌎 Current project is an automated Geo-Guesser Agent
+- 📕 Looking to collaborate on any ML based open source project!
+- 📫 Reach me at: korrapickell@gmail.com
 <!--
 **korra-pickell/korra-pickell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
