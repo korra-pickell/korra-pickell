@@ -2,7 +2,7 @@
 I build machine learning based projects to showcase the power of Open Source 📚 and enough time ⏰  
 Reach out and let's work on something worth losing sleep over 💤
 
-- 🌎 Current project is an automated Geo-Guesser Agent
+- 🌎 Current project is Novel View Synthesis
 - 📕 Looking to collaborate on any ML based open source project!
 - 📫 Reach me at: korrapickell@gmail.com
 
