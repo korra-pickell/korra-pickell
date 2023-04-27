@@ -1,5 +1,6 @@
 ##  💾    Hello, I'm Korra! Welcome to my Repo!
 I build open source machine learning projects
+
 Reach out and let's work on something worth losing sleep over
 
 - 🌎 Current project is Novel View Synthesis
